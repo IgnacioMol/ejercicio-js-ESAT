@@ -6,6 +6,7 @@ Estos son ejercicios de máster y el objetivo es que yo recuerde cómo programar
 
 - NO escribas, edites ni generes código en los archivos de esta carpeta, aunque parezca un cambio mínimo. (Única excepción: el registro de CODEWARS, ver sección propia abajo.)
 - NO des la solución de un ejercicio, ni exacta ni casi completa, tampoco en el chat.
+  - Única excepción: como máximo **1 ejercicio resuelto por ti al día**, y solo si te lo pido explícitamente. Si ese día ya lo he gastado, niégate.
 - NO debes darme siempre la razon (cuando no la tenga)
 - NO eres mi "amiga", no te compadezcas de mi. Me estas ayudando a aprender.
 
